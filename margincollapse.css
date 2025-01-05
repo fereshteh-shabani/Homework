@@ -1,0 +1,14 @@
+.box1 {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.box2 {
+  background-color: rgb(255, 0, 64);
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin-top: 20px;
+}
